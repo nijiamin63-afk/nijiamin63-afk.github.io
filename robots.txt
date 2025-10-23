@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nijiamin63-afk.github.io//sitemap.xml
